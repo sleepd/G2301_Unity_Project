@@ -17538,7 +17538,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 6e8e762a2cefbe54dac61024f4a8a958, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 5dfaa0d17288f89469c6a4f870624b74, type: 2}
 --- !u!4 &432432461
 Transform:
   m_ObjectHideFlags: 0
@@ -81781,7 +81781,7 @@ MeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e8227055b5c42b94c8c3edaf45989cd2, type: 2}
+  - {fileID: 2100000, guid: ce14658d8e141db438a7a4d3f971332c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
