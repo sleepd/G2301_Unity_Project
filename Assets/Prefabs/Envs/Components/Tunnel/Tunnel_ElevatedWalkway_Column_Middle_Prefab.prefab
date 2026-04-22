@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1701869273057292519}
   - component: {fileID: 3048369867569134064}
   - component: {fileID: 4144742781625067014}
-  - component: {fileID: 7298595777048190608}
+  - component: {fileID: 6161255956206419264}
   m_Layer: 0
   m_Name: Tunnel_ElevatedWalkway_Column_Middle_Prefab
   m_TagString: Untagged
@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1859487557660937690}
-  m_Mesh: {fileID: 3936358328073793088, guid: 8a762f416479d6440b729054c13e22ff, type: 3}
+  m_Mesh: {fileID: -3333984671856542439, guid: 8a762f416479d6440b729054c13e22ff, type: 3}
 --- !u!23 &4144742781625067014
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -67,7 +67,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ce14658d8e141db438a7a4d3f971332c, type: 2}
+  - {fileID: 2100000, guid: 04790ce8eb8673641a37427949b5c9ab, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -89,8 +89,9 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7298595777048190608
+--- !u!65 &6161255956206419264
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -109,5 +110,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1.000001, z: 1}
-  m_Center: {x: 0, y: 0.5, z: 0}
+  m_Size: {x: 1, y: 4.000004, z: 1}
+  m_Center: {x: 0, y: 2, z: 0}
